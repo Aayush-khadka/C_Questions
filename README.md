@@ -38,7 +38,7 @@
 - [34. Write a C program that asks the user to enter a string and then calculates and prints the length of the string.]( )
 - [35. Write a C program that defines two strings and concatenates them using the strcat() function. Print the concatenated string to the console.]( )
 - [36. Write a C program that defines two strings and compares them using the strcmp() function. Print the result of the comparison to the console.]( )
-- [37. Write a C program that defines two strings and copies the contents of one string to the other using the strcpy() function. Print the copied string to the console.]( ) Functions
+- [37. Write a C program that defines two strings and copies the contents of one string to the other using the strcpy() function. Print the copied string to the console.]( )
 - [38. Write a C program that defines a function that takes two integers as arguments and returns their sum. Call the function and print the result to the console.]( )
 - [39. Write a C program that defines a recursive function that calculates the factorial of a number. Call the function and print the result to the console.]( )
 - [40. Write a C program that defines a function that takes an array of integers and its size as arguments, and returns the sum of its elements. Call the function and print the result to the console.]( )
